@@ -34,11 +34,11 @@ Oscilloscope (Virtual Instrument in Multisim)
 Power Supply (±12V or ±15V)
 
 # Circuit Diagram 
-<img width="529" height="453" alt="image" src="https://github.com/user-attachments/assets/4b061482-429c-4376-b319-2f1fbfd9c307" />
+<img width="529" height="390" alt="image" src="https://github.com/user-attachments/assets/4b061482-429c-4376-b319-2f1fbfd9c307" />
 
 
 
-<img width="529" height="453" alt="image" src="https://github.com/user-attachments/assets/4c24f321-c322-4932-b7d3-8988f00a21f7" />
+<img width="529" height="390" alt="image" src="https://github.com/user-attachments/assets/4c24f321-c322-4932-b7d3-8988f00a21f7" />
 
 
         
