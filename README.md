@@ -77,8 +77,11 @@ Gain = 10
 
 # Precautions
 Ensure correct wiring of feedback network
+
 Verify power supply connections
+
 Avoid very high gain to prevent saturation
+
 Check grounding in Multisim
 
 # Applications
