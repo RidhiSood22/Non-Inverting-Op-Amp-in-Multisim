@@ -33,20 +33,15 @@ Ground
 Oscilloscope (Virtual Instrument in Multisim)
 Power Supply (±12V or ±15V)
 
-# Circuit Diagram (Concept)
-         +Vcc
-          │
-          │
-        ┌─────┐
-Vin ───►│  +  │
-        │ Op  │────── Vout
-        │ Amp │
-        │  -  │◄───┬── Rf ──┐
-        └─────┘    │        │
-                   │        │
-                   └── R1 ──┘
-                          │
-                         GND
+# Circuit Diagram 
+<img width="529" height="482" alt="image" src="https://github.com/user-attachments/assets/4b061482-429c-4376-b319-2f1fbfd9c307" />
+
+
+
+<img width="803" height="453" alt="image" src="https://github.com/user-attachments/assets/4c24f321-c322-4932-b7d3-8988f00a21f7" />
+
+
+        
 # Procedure (Multisim)
 Open NI Multisim and create a new design.
 Place the Op-Amp (741) from the component library.
