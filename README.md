@@ -83,16 +83,13 @@ Check grounding in Multisim
 
 # Applications
 Voltage follower (buffer)
+   
 Audio amplifiers
+
 Signal conditioning
+
 Instrumentation circuits
 
-# Project Structure
-Non-Inverting-Amplifier-Multisim/
-│── README.md
-│── circuit.ms14
-│── output_waveform.png
-│── screenshots/
 
 # Conclusion
 
